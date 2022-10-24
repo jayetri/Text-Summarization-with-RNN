@@ -1,0 +1,10 @@
+pandas
+nltk
+tensorflow
+numpy
+scikit-learn
+scipy
+graphviz
+jupyter
+pyrouge
+
